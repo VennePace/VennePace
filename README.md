@@ -11,8 +11,8 @@
 ```yaml
 name   : VennePace
 class  : Web Dev x IoT Tinkerer
-weapon : PHP + Raspberry Pi
-bonus  : suka Silver Wolf
+weapon : PHP + Node.js + MySql
+bonus  : I believe In SilverWolf Supremacy
 weak   : deadline tugas
 quest  : bikin sesuatu yang keren, satu commit sekali jalan
 ```
