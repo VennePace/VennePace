@@ -10,11 +10,10 @@
 
 ```yaml
 name   : VennePace
-class  : Web Dev x IoT Tinkerer
-weapon : PHP + Raspberry Pi
-bonus  : suka Silver Wolf
+class  : WEB DEV & GAME DEV
+weapon : PHP + Node.js + MySql
 weak   : deadline tugas
-quest  : bikin sesuatu yang keren, satu commit sekali jalan
+quest  : Mencintai SilverWolf Selamanya
 ```
 
 ## ❤️ STATUS
