@@ -35,11 +35,9 @@ CAFFEINE ████████████████████  MAX
 ![Git](https://img.shields.io/badge/Git-00f5ff?style=flat-square&logo=git&logoColor=black)
 
 ## 🏆 HIGH SCORE
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VennePace&show_icons=true&bg_color=0d0221&title_color=ff6ec7&text_color=00f5ff&icon_color=7b2ff7&border_color=7b2ff7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VennePace&layout=compact&bg_color=0d0221&title_color=ff6ec7&text_color=00f5ff&border_color=7b2ff7)
+```yaml
+NOT YET
+```
 
 </div>
 
