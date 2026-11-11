@@ -9,11 +9,11 @@
 ## 🕹️ PLAYER 1
 
 ```yaml
-name   : VennePace
-class  : WEB DEV & GAME DEV
-weapon : PHP + Node.js + MySql
-weak   : deadline tugas
-quest  : Mencintai SilverWolf Selamanya
+Name     : VennePace
+Class    : WEB DEV & GAME DEV
+Weapon   : PHP + Node.js + MySql
+Weakness : deadline tugas
+quest    : Mencintai SilverWolf Selamanya
 ```
 
 ## ❤️ STATUS
