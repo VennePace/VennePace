@@ -1,6 +1,8 @@
 <div align="center">
 
-```
+![banner](https://raw.githubusercontent.com/VennePace/VennePace/main/banner.svg)
+
+</div>
 ▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 ```
 
