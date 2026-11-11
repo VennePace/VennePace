@@ -2,26 +2,28 @@
 
 ![banner](https://raw.githubusercontent.com/VennePace/VennePace/main/banner.svg)
 
+**`> Turning coffee into code & circuits. Insert coin to collab. ☕⚡`**
+
 </div>
 
 ## 🕹️ PLAYER 1
 
 ```yaml
-name  : Faisha Ramdani (VennePace)
-prodi : Informatika
-univ  : ITENAS Bandung
-focus : web dev & IoT
-bonus : suka Silver Wolf
-weak  : deadline tugas
+name   : VennePace
+class  : Web Dev x IoT Tinkerer
+weapon : PHP + Raspberry Pi
+bonus  : suka Silver Wolf
+weak   : deadline tugas
+quest  : bikin sesuatu yang keren, satu commit sekali jalan
 ```
 
 ## ❤️ STATUS
 
 ```
-HP   ████████████████░░░░  80%
-MP   ██████████████░░░░░░  70%
-EXP  ████████████░░░░░░░░  60%
-CAFFEINE ████████████████████ MAX
+HP       ████████████████░░░░  80%
+MP       ██████████████░░░░░░  70%
+EXP      ████████████░░░░░░░░  60%
+CAFFEINE ████████████████████  MAX
 ```
 
 ## 🎒 INVENTORY
@@ -37,4 +39,13 @@ CAFFEINE ████████████████████ MAX
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/a
+![Stats](https://github-readme-stats.vercel.app/api?username=VennePace&show_icons=true&bg_color=0d0221&title_color=ff6ec7&text_color=00f5ff&icon_color=7b2ff7&border_color=7b2ff7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VennePace&layout=compact&bg_color=0d0221&title_color=ff6ec7&text_color=00f5ff&border_color=7b2ff7)
+
+</div>
+
+<div align="center">
+
+`GAME OVER? NOPE. > INSERT COIN TO CONTINUE_`
+
+</div>
