@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/VennePace/VennePace/main/banner.svg?)
+![banner](https://raw.githubusercontent.com/VennePace/VennePace/main/banner2.svg?)
 
 **`> Turning coffee into code & circuits. Insert coin to collab. ☕⚡`**
 
