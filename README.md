@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/VennePace/VennePace/main/banner.svg)
+![banner](https://raw.githubusercontent.com/VennePace/VennePace/main/banner.svg?v=2)
 
 **`> Turning coffee into code & circuits. Insert coin to collab. ☕⚡`**
 
@@ -11,8 +11,8 @@
 ```yaml
 name   : VennePace
 class  : Web Dev x IoT Tinkerer
-weapon : PHP + Node.js + MySql
-bonus  : I believe In SilverWolf Supremacy
+weapon : PHP + Raspberry Pi
+bonus  : suka Silver Wolf
 weak   : deadline tugas
 quest  : bikin sesuatu yang keren, satu commit sekali jalan
 ```
